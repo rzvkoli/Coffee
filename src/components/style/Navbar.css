@@ -1,0 +1,17 @@
+.MuiList-root{
+    background-color: #6B9080 !important;
+}
+
+.MuiPaper-root{
+    border: 0 !important;
+    /* border-radius: 0 !important; */
+    box-shadow: none !important;
+}
+
+.MuiToolbar-root{
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: center !important;
+    align-items: center !important;
+    gap: 3vh !important;
+}
