@@ -10,6 +10,18 @@
 - **React Icons**
 - **Sweetalert 2**
 
+## Description
+
+- In this project the information is received as **API** with **axios** .
+- Hooks like
+**useState** 
+**useEffect**
+**useRef**
+**useReducer**
+**useContext**
+have been used in this project .
+
+
 ## Preview
 ### Desktop Mode
 ![01](https://user-images.githubusercontent.com/100797809/223477213-bfbf4c04-3dc9-477a-9c3f-87393dad0547.png)
