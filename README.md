@@ -10,12 +10,11 @@
 - **React Icons**
 - **Sweetalert 2**
 
-### [Live Demo](https://coffee-build.netlify.app/) ( This project is only visible in desktop mode )
-
 ## Preview
 ### Desktop Mode
-![00](https://user-images.githubusercontent.com/100797809/219783318-99fba9d2-cf4c-4e23-9e0c-b62f8c79fda9.png)
-![01](https://user-images.githubusercontent.com/100797809/219783343-d5e69a36-f68d-4507-8866-d17cd38c91a1.png)
-![02](https://user-images.githubusercontent.com/100797809/219783378-f3eab1a5-7709-4022-b992-bf0b14426a59.png)
-![03](https://user-images.githubusercontent.com/100797809/219783424-6e39f349-d430-4411-a646-b9e2ca1879cf.png)
+![01](https://user-images.githubusercontent.com/100797809/223477213-bfbf4c04-3dc9-477a-9c3f-87393dad0547.png)
+![03](https://user-images.githubusercontent.com/100797809/223477248-46d35f5f-0c6d-40cf-a60b-82249d22ccc8.png)
+![02](https://user-images.githubusercontent.com/100797809/223477263-05c05bbb-bac2-412c-aad3-cdbc85c2e13a.png)
+![05](https://user-images.githubusercontent.com/100797809/223477277-351224c0-0f73-45c1-8061-2bebcee3d09e.png)
+![04](https://user-images.githubusercontent.com/100797809/223477294-9f60453e-0399-48a6-85e1-21e98531bc5b.png)
 ---
